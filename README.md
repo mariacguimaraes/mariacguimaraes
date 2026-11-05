@@ -1,7 +1,6 @@
 ## Oi, eu sou a Maria! ✨
 
-Sou product designer e mentora de design na Apple Developer Academy | UCB, onde também fui aluna.
-Trabalho com UX/UI, design systems e plataformas web, do discovery ao handoff, e tenho 7 anos de experiência com interfaces para jogos digitais.
+Tenha uma ideia. Vamos cria-la!
 
 ### Me encontre em:
 
